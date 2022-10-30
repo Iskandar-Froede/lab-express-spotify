@@ -1,0 +1,21 @@
+.home-page {
+  height: 100vh;
+  width: 100vw;
+  background-image: url('../images/spotify-background.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.search-label {
+ display: block;
+ margin-left: 100px;
+ width: 100px;
+
+
+}
+
+.search-btn {
+  display: block;
+  margin-left: 100px;
+  width: 200px;
+}
